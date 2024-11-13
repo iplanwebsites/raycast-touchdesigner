@@ -23,9 +23,11 @@ interface OperatorFamily {
   types?: Record<string, string[]>;
 }
 
+/*
 interface OperatorData {
   operators: Record<string, OperatorFamily>;
 }
+*/
 
 // Constants
 const BASE_DOC_URL = "https://derivative.ca/UserGuide";
